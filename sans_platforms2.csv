@@ -17,3 +17,4 @@
 0,SineBones,30,15,350,$xi,
 0,SineBones,30,-15,350,$xi,
 2,JMPNZ,13,$pppp,,,
+1,EndAttack,,,,,
