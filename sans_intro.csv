@@ -173,4 +173,6 @@
 0,sanstext,This is a very bad time,,,,,,,
 0,SansHead,Default,,,,,,,
 0,sanstorso,Default,,,,,,,
-0,EndAttack,,,,,,,,
+0,damageplayer,-50,1,,,,,,
+0,Sound,heartshatter,1,,,,,,
+0.2,EndAttack,,,,,,,,
