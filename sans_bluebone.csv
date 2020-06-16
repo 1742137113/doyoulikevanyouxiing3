@@ -118,4 +118,6 @@
 0,bonev,-48,231,155,0,20,,
 0,bonev,-60,231,155,0,20,,
 0,bonev,-72,231,155,0,20,,
-28,EndAttack,,,,,,,
+28,DamagePlayer,-92,1,,,,,
+0,Sound,heartsplit,1,,,,,
+0,EndAttack,,,,,,,
