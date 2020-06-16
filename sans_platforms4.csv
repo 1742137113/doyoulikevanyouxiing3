@@ -61,4 +61,6 @@
 0.9999,BoneStab,3,10,0.4,0,,,,
 0.9999,BoneStab,3,10,0.4,0,,,,
 0.9999,BoneStab,3,10,0.4,0,,,,
-1.5,EndAttack,,,,,,,,
+1.5,DamagePlayer,-55,1,,,,,,
+0,sound,heartsplit,1,,,,,,
+0,EndAttack,,,,,,,,
