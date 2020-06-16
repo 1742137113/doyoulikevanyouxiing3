@@ -9,7 +9,7 @@
 0,sanstext,I can't tell clearly,,,,,,,
 0,SansHead,Default,,,,,,,
 0,SansAnimation,Idle,,,,,,,
-0.5,SET,LLLL,45,,,,,,
+0.5,SET,LLLL,37,,,,,,
 0,SUB,LLLL,$LLLL,1,,,,,
 0,RND,Ang,360,,,,,,
 0,COS,X,$Ang,,,,,,
