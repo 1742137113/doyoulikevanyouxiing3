@@ -22,4 +22,6 @@
 0,BoneStab,3,$qiang3,1,0.3
 0,BoneStab,1,$qiang4,1,0.3
 1.5,JMPNZ,9,$loop,,
-1,EndAttack,,,,
+1,DamagePlayer,-40,1,,
+0,sound,heartsplit,1,,
+0,EndAttack,,,,
