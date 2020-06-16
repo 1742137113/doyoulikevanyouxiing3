@@ -52,4 +52,6 @@
 0,sansslam,2,,,,,,
 0.2,BoneStab,2,29,0.1333,0.1,,,
 0.1,BoneStab,0,115,0.1222,0.1,,,
-1.5,EndAttack,,,,,,,
+1.5,damageplayer,-35,1,,,,,
+0,Sound,heartshatter,1,,,,,
+0,EndAttack,,,,,,,
