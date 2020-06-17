@@ -5,7 +5,7 @@
 0.2,SansHead,Tired2,,,,,,,
 0,sanstext,This battle is exhausting,,,,,,,
 0,SansAnimation,Idle,,,,,,,
-0.3,SET,loop,10,,,,,,
+0.3,SET,loop,5,,,,,,
 0,SUB,loop,$loop,1,,,,,
 0,SET,qiang,29,,,,,,
 0,RND,jiachang,80,,,,,,
