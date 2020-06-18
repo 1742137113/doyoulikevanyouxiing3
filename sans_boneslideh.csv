@@ -107,6 +107,6 @@
 0,GasterBlaster,0,$X3,$Y3,$EndX3,$EndY3,$Ang3,0.46666,0.266
 0,GasterBlaster,0,$X4,$Y4,$EndX4,$EndY4,$Ang4,0.46666,0.266
 2,JMPNZ,9,$loop,,,,,,
-1,DamagePlayer,-40,1,,,,,,
+1,DamagePlayer,-15,1,,,,,,
 0,sound,heartsplit,1,,,,,,
 0,EndAttack,,,,,,,,
