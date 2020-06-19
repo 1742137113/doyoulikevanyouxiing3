@@ -83,6 +83,6 @@
 0,boneh,$HeartXX,$HeartYY,30,2,450,,,
 0,boneh,$HeartX,$HeartY,30,0,450,,,
 1,JMPNZ,63,$oooo,,,,,,
-1,DamagePlayer,-40,1,,,,,,
+1,DamagePlayer,-15,1,,,,,,
 0,sound,heartsplit,1,,,,,,
 0,EndAttack,,,,,,,,
