@@ -17,6 +17,6 @@
 0,SineBones,30,15,350,$xi,
 0,SineBones,30,-15,350,$xi,
 2,JMPNZ,13,$pppp,,,
-1,DamagePlayer,-25,1,,,
+1,DamagePlayer,-15,1,,,
 0,sound,heartsplit,1,,,
 0,EndAttack,,,,,
