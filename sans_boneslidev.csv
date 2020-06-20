@@ -2,6 +2,17 @@
 0,HeartTeleport,320,304,,,,,
 0,HeartMode,0,,,,,,
 0,TLPause,,,,,,,
-0.2,BoneHRepeat,130,-10,200,1,300,7,183
-0,BoneHRepeat,330,650,200,3,300,7,183
-5.76666,EndAttack,,,,,,,
+0.2,sanstext,I have to admit that you            are strong,,,,,,
+0.4,BoneStab,1,43,0.4,12,,,
+0,BoneStab,2,43,0.4,12,,,
+0,BoneStab,3,43,0.4,12,,,
+0,BoneStab,0,43,0.4,12,,,
+0.6,HeartMode,,,,,,,
+0,Sound,ding,,,,,,
+0.2,BoneHRepeat,241,126,80,1,150,15,100
+0,BoneHRepeat,325,466,80,3,150,15,100
+0,BoneVRepeat,521,226,80,2,150,15,100
+0,BoneVRepeat,111,311,80,0,150,15,100
+12,DamagePlayer,-15,1,,,,,
+0,sound,heartsplit,1,,,,,
+0,EndAttack,,,,,,,
