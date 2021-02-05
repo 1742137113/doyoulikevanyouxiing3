@@ -127,5 +127,4 @@
 0,:End,,,,,,,,
 0,CombatZoneResize,241,226,406,391,,,,
 0,DamagePlayer,-15,1,,,,,,
-0,sound,heartsplit,1,,,,,,
 1,EndAttack,,,,,,,,
