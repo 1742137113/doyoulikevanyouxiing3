@@ -1,0 +1,12 @@
+0,CombatZoneResize,140,246,500,391,,,,,,,
+0,HeartTeleport,320,376,,,,,,,,,
+0,heartmode,1,,,,,,,,,,
+0,BoneVVRepeat,0,376,50,0,80,0,0,45,0,100,65
+0,BoneVVRepeat,640,286,140,180,80,0,0,-45,0,100,65
+5,SET,Loop,8,,,,,,,,,
+0,SUB,Loop,$Loop,1,,,,,,,,
+0,GasterBlaster,1,60,0,60,356,0,1,0.02,0,0,
+2,GetHeartPos,HeartX,HeartY,,,,,,,,,
+0,GasterBlaster,1,$HeartX,0,$HeartX,166,90,1,0.02,0,0,
+2,JMPNZ,7,$Loop,,,,,,,,,
+1,EndAttack,,,,,,,,,,,
